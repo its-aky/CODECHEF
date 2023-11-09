@@ -9,6 +9,16 @@ int main()
     ll t;
     cin>>t;
     while(t--){
+        ll x,y,z;
+        cin>>x>>y>>z;
+        if(x*y <=z*1440){
+            cout<<"YES"<<endl;
+        }
+        else
+        {
+            cout<<"NO"<<endl;
+        }
+        
         
     }
 }
