@@ -1,3 +1,5 @@
+//https://www.codechef.com/practice/course/2to3stars/LP2TO301/problems/MAKEDIV3
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
